@@ -48,3 +48,11 @@ Execute Maestro tests using the following command:
 npx maestro test
 # This command will run all tests in your project.
 
+![Screenshot (258)](https://github.com/rahuljethwa1411/MaestroTesting/assets/86496269/c96683ad-54df-4b00-bf85-7bc5a21027e3)
+<img width="287" alt="image" src="https://github.com/rahuljethwa1411/MaestroTesting/assets/86496269/c06b179c-225c-4d98-90b3-0fa3263a3449">
+<img width="725" alt="image" src="https://github.com/rahuljethwa1411/MaestroTesting/assets/86496269/535004b8-1e83-4ac9-815a-14726da03a08">
+<img width="533" alt="image" src="https://github.com/rahuljethwa1411/MaestroTesting/assets/86496269/4d6043de-c1a0-4250-8d13-8bf19f1460af">
+
+
+
+
