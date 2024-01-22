@@ -12,11 +12,19 @@ React Native requires JDK to build Android applications. Download and install th
 Step 4: Install Android Studio
 Download and install Android Studio from the official website: Android Studio
 
-During installation, make sure to install the Android SDK and Virtual Device.
-
 Step 5: Configure Android Environment Variables
 Add the following environment variables to your system:
 
 ANDROID_HOME: Path to your Android SDK directory
 PATH: Append the tools and platform-tools directories inside the Android SDK to the PATH variable
+
+Now after installing all the paths and pre-requisites Install the ignite boilerplate
+write this code in terminal:
+npx ignite-cli@latest new PizzaApp --yes
+
+Install Maestro and Other Dependencies for Testing
+Install Maestro and any other necessary dependencies for testing your React Native application:
+
+Refer to Maestro Website for installation
+
 
