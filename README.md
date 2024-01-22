@@ -27,4 +27,24 @@ Install Maestro and any other necessary dependencies for testing your React Nati
 
 Refer to Maestro Website for installation
 
+Step 11: Write Maestro Tests
+Create test files in your project with the .test.js extension, and write tests using Maestro. For example:
+
+javascript
+// __tests__/App.test.js
+import React from 'react';
+import { render } from '@testing-library/react-native';
+import App from '../App';
+
+test('renders correctly', () => {
+  const { getByText } = render(<App />);
+  const textElement = getByText('Welcome to React Native!');
+  expect(textElement).toBeDefined();
+});
+Step 12: Run Maestro Tests
+Execute Maestro tests using the following command:
+
+
+npx maestro test
+# This command will run all tests in your project.
 
